@@ -561,5 +561,27 @@ AUCTIONATOR_LOCALES_OVERRIDE = function()
   L["CONFIG_SHOPPING_ALWAYS_LOAD_MORE_TOOLTIP_HEADER"] = "Her zaman daha fazla yükle"
   L["CONFIG_SHOPPING_ALWAYS_LOAD_MORE_TOOLTIP_TEXT"] = "Yaklasık dogru bir minimum fiyat alınırken, alısveris aramasını hızlandırmak için bazı sayfalar atlanır. Bu, herhangi bir sayfanın atlanmasını önler ve olası tüm sonuçların görüntülenmesini saglar."
 
+  L["CONFIG_PROSPECT_TOOLTIP"] = "Araç ipuçlarında mücevher isçiliginden elde edilen cevher için olası degeri göster"
+  L["PROSPECT_TOOLTIP_TOOLTIP_HEADER"] = "Prospect İpucu bilgileri"
+  L["PROSPECT_TOOLTIP_TOOLTIP_TEXT"] = "Fareyle üzerine gelindiginde araç ipucunda mücevher isçiligi(Jewel Craft) arama tahmini degerini gösterin."
+
+  L["TRANSLATORS_TURKISH_INFO"] = "Turkish (available separately)"
+
+  L["PROSPECT"] = "Prospect"
+
+  L["IS_TOP_COLUMN"] = "En üst?"
+
+  L["POST_ATTEMPT_FAILED"] = "Son gönderi denemeniz ise yaramadı. Tekrar deneyin."
+
+  L["CONFIG_SELLING_SPLIT_PANELS"] = "Geçerli fiyatlar ve geçmis fiyatlar arasında bölünmüs panel görünümünü göster"
+  L["CONFIG_SELLING_SPLIT_PANELS_TOOLTIP_HEADER"] = "Bölünmüs Paneller Görünümü"
+  L["CONFIG_SELLING_SPLIT_PANELS_TOOLTIP_TEXT"] = "Normalde geçmis fiyatlar Satıs sekmesinin içindeki bir sekmede bulunur, bunun yerine bu, mevcut fiyatların her zaman görünür olmasını saglar, ancak geçmis fiyatlar bunların altında bir panel olarak gösterilir."
+
+  L["BID_ONLY_AVAILABLE"] = "sadece teklif mevcut"
+
+  L["CONFIG_SELLING_GREY_POST_BUTTON"] = "Bir gönderi basarısız oldugunda gönderi dügmesini gri yapar. (devre dısı bırakın)"
+  L["CONFIG_SELLING_GREY_POST_BUTTON_TOOLTIP_HEADER"] = "Gri gönderi dügmesi"
+  L["CONFIG_SELLING_GREY_POST_BUTTON_TOOLTIP_TEXT"] = "Bir gönderi basarısız oldugunda, gönderi dügmesi grilesir (devre dısı bırakılır). Dügmenin etkinlestirilmesini beklemekten kaçınmak için bu seçenegi kapatın, böylece daha erken yayınlamayı deneyebilirsiniz."
+
     return L
 end
