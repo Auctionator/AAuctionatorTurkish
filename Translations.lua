@@ -583,5 +583,23 @@ AUCTIONATOR_LOCALES_OVERRIDE = function()
   L["CONFIG_SELLING_GREY_POST_BUTTON_TOOLTIP_HEADER"] = "Gri gönderi dügmesi"
   L["CONFIG_SELLING_GREY_POST_BUTTON_TOOLTIP_TEXT"] = "Bir gönderi basarısız oldugunda, gönderi dügmesi grilesir (devre dısı bırakılır). Dügmenin etkinlestirilmesini beklemekten kaçınmak için bu seçenegi kapatın, böylece daha erken yayınlamayı deneyebilirsiniz."
 
+  L["CONFIG_MILL_TOOLTIP"] = "İnscription ipuçlarında bitkiler için mill yapıldıktan sonraki degerleri göster "
+  L["MILL_TOOLTIP_TOOLTIP_HEADER"] = "Mill(inscription) Araç İpucu Bilgileri"
+  L["MILL_TOOLTIP_TOOLTIP_TEXT"] = "Mause üstüne getirince İnscriptionda mill çıkacak ürün tahmini miktarı göster "
+  L["SHOPPING_TAB_HEADER_2"] = "Auctionator - Alıs-Veris"
+  L["BID_EXISTING_ON_OWNED_AUCTION"] = "Bu satıs üzerinde birisinin teklifi var iptal etmek depzitonun gitmesine ve:"
+  L["CONFIRM_X_TOTAL_PRICE_X"] = "Onayla %s, Toplam fiyat %s"
+  L["NO_LONGER_AVAILABLE"] = "Artık mevcut degil"
+  L["CRAFTING_INFO"] = "Üretim Bilgisi"
+  L["CONFIG_CRAFTING_INFO_SHOW"] = "Üretim görünümünde üretim maliyetlerini göster"
+  L["CONFIG_CRAFTING_INFO_SHOW_TOOLTIP_HEADER"] = "Üretim ekranı ekstra bilgi"
+  L["CONFIG_CRAFTING_INFO_SHOW_TOOLTIP_TEXT"] = "Üretim ekranı, bir ögeyi üretmenin maliyetini gösterecektir. Üretim maliyetlerini göstermemek için bu seçenegi devre dısı bırakın."
+  L["CONFIG_CRAFTING_INFO_SHOW_COST"] = "Auction House ve satıcılarda ara madde maliyetlerini göster"
+  L["CONFIG_CRAFTING_INFO_SHOW_COST_TOOLTIP_HEADER"] = "Üretim Bilgisi Maliyeti Göster"
+  L["CONFIG_CRAFTING_INFO_SHOW_COST_TOOLTIP_TEXT"] = "Görüntülerken belirli bir tarifi hazırlamanın maliyetini görmek için bu seçenegi etkinlestirin."
+  L["CONFIG_CRAFTING_INFO_SHOW_PROFIT"] = "Auction House ve satıcı ara maddeleri ile üretimden elde edilen karı gösterin"
+  L["CONFIG_CRAFTING_INFO_SHOW_PROFIT_TOOLTIP_HEADER"] = "Üretim Bilgisi Kârı Göster"
+  L["CONFIG_CRAFTING_INFO_SHOW_PROFIT_TOOLTIP_TEXT"] = "Görüntülerken belirli bir tarifi hazırlamanın kârını görmek için bu seçenegi etkinlestirin."
+  L["PRICE_HISTORY"] = "Fiyat geçmisi"
     return L
 end
